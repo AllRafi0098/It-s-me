@@ -53,19 +53,19 @@ header p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 15px;
+  gap: 30px;
   margin-top: 20px;
 }
 
 .portfolio-gallery img {
-  width: 30%; /* ইমেজ প্রস্থ নিয়ন্ত্রণ */
-  border-radius: 8px;
+  width: 50%; /* ইমেজ প্রস্থ নিয়ন্ত্রণ */
+  border-radius: 10px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s;
 }
 
 .portfolio-gallery img:hover {
-  transform: scale(1.1);
+  transform: scale(10.1);
 }
 
 /* Address Styling */
