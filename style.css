@@ -65,7 +65,7 @@ header p {
 }
 
 .portfolio-gallery img:hover {
-  transform: scale(10.1);
+  transform: scale(1.1);
 }
 
 /* Address Styling */
