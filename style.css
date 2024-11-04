@@ -65,7 +65,8 @@ header p {
 }
 
 .portfolio-gallery img:hover {
-  transform: scale(5.1);
+  transform: scale(2.1);
+  filter: brightness(1.1); /* একটু উজ্জ্বল হবে */
 }
 
 /* Address Styling */
